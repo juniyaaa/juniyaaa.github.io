@@ -1,0 +1,83 @@
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+
+
+.hidden {
+    display: none;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#bgImage {
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+
+#clock {
+    margin: 20px 20px;
+    font-size: 60px;
+}
+
+#greeting {
+    margin: 20px;
+}
+
+h3 {
+    display: flex;
+    font-size: 4em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.todo-box {
+    padding: 100px;
+    justify-content: center;
+}
+
+.todo-box h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 2em;
+    margin-block-end: 1em;
+    margin-inline-start: 430px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    font-size: xx-large;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 0em;
+}
+
+
+#todo-form input {
+    width:350px;
+    height:50px;
+    font-size:25px;
+  }
