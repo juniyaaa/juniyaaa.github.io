@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/STUDY_TOGETHER_REACT/static/css/main.1afd03f8.css",
+    "main.js": "/STUDY_TOGETHER_REACT/static/js/main.e852d06a.js",
+    "index.html": "/STUDY_TOGETHER_REACT/index.html",
+    "main.1afd03f8.css.map": "/STUDY_TOGETHER_REACT/static/css/main.1afd03f8.css.map",
+    "main.e852d06a.js.map": "/STUDY_TOGETHER_REACT/static/js/main.e852d06a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1afd03f8.css",
+    "static/js/main.e852d06a.js"
+  ]
+}
